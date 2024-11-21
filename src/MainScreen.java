@@ -17,9 +17,8 @@ public class MainScreen {
 
     public MainScreen() {
 
-      /*  tblSymbols.setPreferredScrollableViewportSize(new Dimension(400, 150)); // Ajusta las dimensiones aquí
+      /*  tblSymbols.setPreferredScrollableViewportSize(new Dimension(400, 150));
 
-        // Asegúrate de que table1 esté dentro de un JScrollPane
         JScrollPane scrollPane = new JScrollPane(tblSymbols);
         mainPanel.add(scrollPane);
         mainPanel.validate();
